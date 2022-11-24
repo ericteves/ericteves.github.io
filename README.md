@@ -1,2 +1,1 @@
 # ericteves.github.io
-WELCOME!
